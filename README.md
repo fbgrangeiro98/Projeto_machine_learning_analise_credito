@@ -35,7 +35,7 @@ Todo o projeto foi construído utilizando apenas a biblioteca `scikit-learn`, pa
 * **Threshold Tuning (Ajuste de Limiar):** Devido à alta taxa de Falsos Negativos no limiar padrão (50%), a recomendação gerencial final é reduzir o ponto de corte preditivo. Rejeitar crédito a partir de 25% ou 30% de probabilidade de default aumenta significativamente o *Recall*, protegendo o caixa da instituição em detrimento de uma leve queda na *Precision*.
 
 ## ⚙️ Como executar
-1. Clone este repositório: `git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git`
+1. Clone este repositório: `git clone https://github.com/fbgrangeiro98/Projeto_machine_learning_analise_credito.git`
 2. Instale as dependências necessárias:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
